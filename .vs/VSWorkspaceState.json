@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\venv-daniel",
+    "\\webapp",
+    "\\webapp\\static",
+    "\\webapp\\static\\js",
+    "\\webapp\\static\\sound",
+    "\\webapp\\templates",
+    "\\webapp\\templates\\pages",
+    "\\webapp\\__pycache__"
+  ],
+  "SelectedNode": "\\webapp\\templates\\pages\\homepage.html",
+  "PreviewInSolutionExplorer": false
+}
